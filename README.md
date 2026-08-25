@@ -1,6 +1,6 @@
 # Gersende de Parcey
 
-**Founder of TruthX — building OpenProof, the probative infrastructure.**
+**Founder of TruthX · OpenProof — building evidence infrastructure for high-stakes decisions.**
 
 I build systems that turn complex and fragmented evidence into structured, traceable and verifiable records for high-stakes decisions.
 
@@ -8,7 +8,7 @@ I build systems that turn complex and fragmented evidence into structured, trace
 
 **OpenProof is the probative infrastructure.**  
 **TruthX Engine is the deterministic structuring engine powering it.**  
-**RPO is the Registered Probative Object it produces.**
+**RPO is the Registered Probative Object produced by the engine.**
 
 Together, they create a controlled path from fragmented evidence to a structured and verifiable decision record:
 
@@ -48,6 +48,10 @@ The system produces records that are:
 The system can structure, compare, test and document evidence. It does not turn an AI-generated output into a final decision.
 
 **Automation supports judgment. It does not replace authority or accountability.**
+
+## In development
+
+**OpenProof Human / Recompose** — applying evidence-backed reconstruction and Strategic Recomposition™ to complex human and professional trajectories.
 
 ## Learn more
 
