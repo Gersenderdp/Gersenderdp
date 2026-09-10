@@ -13,7 +13,13 @@ Transformation COO · Interim Executive
 </tr>
 </table>
 
-**Research collaboration — GREYC, 2025–2026.** Since 2025, Gersende has worked with **Professor [Gaël Dias](https://dias.users.greyc.fr/)** and a student team at **Université de Caen Normandie**. In May 2026, **Lucy Martin and Clément Correia-Peltier** delivered a multi-agent research prototype, source code and a report, building on Gersende's thirteen-module design. **This research work is not yet integrated into the current engine.**
+**RESEARCH COLLABORATION SINCE 2025 · GREYC / UNIVERSITÉ DE CAEN NORMANDIE**
+
+**Conceived and led by Gersende Ryard de Parcey. Developed through research with Professor [Gaël Dias](https://dias.users.greyc.fr/), Lucy Martin and Clément Correia-Peltier.**
+
+Gersende designed the initial thirteen-module architecture. Under Gaël Dias's academic supervision, Lucy and Clément developed a multi-agent research prototype and delivered code, a report and a presentation in May 2026. Their work spans document extraction, consistency checks, structured analysis and report generation.
+
+**A research foundation already exists. Help turn it into a clearer, more useful document review experience.** The student prototype's integration into the current engine remains to be done.
 
 [Meet the research team and see what was delivered](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/RESEARCH_COLLABORATION.md).
 
@@ -23,7 +29,7 @@ I am building OpenProof to help people examine complex documentary cases. My con
 
 ### [Build OpenProof with us →](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/COMMUNITY.md)
 
-I lead the project and am forming its first contributor circle: researchers, developers and people who review complex documents. Our first shared challenge is a short, source-linked report that another person can check. Legal is the first application; the mission is wider.
+I lead OpenProof and invite researchers, developers and documentary professionals to build on this work. Help people turn a confusing dossier into a report they can check: find the source, examine a discrepancy and understand the next review question. Legal is our first application.
 
 [Read the three fictional documents](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/examples/community-cedar/README.md), choose a small task and bring your perspective. No coding is needed for a first review. French and English are welcome.
 
