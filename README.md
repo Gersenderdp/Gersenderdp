@@ -4,8 +4,8 @@
 <tr>
 <td width="150" valign="top"><a href="https://github.com/Gersenderdp"><img src="https://raw.githubusercontent.com/openproof-net/rpo-spec-v0.1/4917df0671dbf53c59ad20cf5276309e090704b8/docs/images/gersende-de-parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof"></a></td>
 <td valign="middle">
-<strong>TRANSFORMATION · CRISIS · GOVERNANCE</strong><br>
-Founder of TruthX / OpenProof<br>
+<strong>SOURCE TRACEABILITY · HUMAN REVIEW · OPEN COLLABORATION</strong><br>
+Founder & project lead — TruthX / OpenProof<br>
 Transformation COO · Interim Executive
 <p>I turn complex situations into clear responsibilities, reviewable decisions and practical operating workflows.</p>
 <a href="https://github.com/openproof-net/rpo-spec-v0.1">OpenProof repository</a> · <a href="https://www.linkedin.com/in/gryard/">Professional background</a>
@@ -17,9 +17,11 @@ Transformation COO · Interim Executive
 
 I am building OpenProof to help people examine complex documentary cases. My contribution connects product design, source traceability and human responsibility with operational implementation.
 
-### [See my work: try OpenProof in five minutes →](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/START_HERE.md)
+### [Build OpenProof with us →](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/COMMUNITY.md)
 
-A fictional case. A reproducible change check. One useful observation to contribute.
+I lead the project and am forming its first contributor circle: researchers, developers and people who review complex documents. Our first shared challenge is a short, source-linked report that another person can check. Legal is the first application; the mission is wider.
+
+[Read the three fictional documents](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/examples/community-cedar/README.md), choose a small task and bring your perspective. No coding is needed for a first review. French and English are welcome.
 
 ## What I am building
 
@@ -46,7 +48,7 @@ This profile distinguishes the public material you can inspect from capabilities
 
 ## Help shape OpenProof
 
-We are seeking first users and contributors. Legal practitioners and other documentary professionals can report a review need; developers can reproduce a checker problem; researchers can propose a fictional counterexample. [See the contribution guide](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/CONTRIBUTING.md). No coding is needed to give useful feedback. Use invented material only.
+**I am responsible for OpenProof's direction, priorities and coordination.** Contributors can take a bounded research, development or practitioner task, with clear acceptance criteria and credit for their work. [Meet the challenge and choose your role](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/COMMUNITY.md). The invitation is live; participation and institutional commitments are not presumed. The private engine's open-source release and licensing remain to be finalised.
 
 > Do not stop trusting. Stop trusting what cannot be reconstructed.
 
