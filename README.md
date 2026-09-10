@@ -44,8 +44,8 @@ The first product pilot is **OpenProof Legal**: preparing a reviewable documenta
 | Start with | What you can evaluate |
 | --- | --- |
 | [Public RPO repository](https://github.com/openproof-net/rpo-spec-v0.1) | The format, example and documented verification boundary |
-| [Fictional record](https://rpo.openproof.net/examples.html) | How a record presents its sources and unresolved points |
-| [Browser verification](https://rpo.openproof.net/tests.html) | A local comparison with the demonstration reference |
+| [Fictional record](https://openproof.net/docs/examples.html) | How a record presents its sources and unresolved points |
+| [Browser verification](https://openproof.net/docs/tests.html) | A local comparison with the demonstration reference |
 | [Product and pilot offers](https://openproof.net/) | The proposed service and case qualification path |
 
 The public example is educational: its discrepancy is already written. The supported checker compares a JSON record with a retained reference; it does not ingest your PDFs or discover contradictions. The complete application and TruthX Engine remain private. Integrity comparison does not prove that a statement is true, that a source is authentic or that a record has legal validity.
@@ -64,8 +64,11 @@ This profile distinguishes the public material you can inspect from capabilities
 
 ## Work with me
 
+[Contact Gersende](https://openproof.net/#contact) · [Open the Workspace](https://app.openproof.net/)
+
+
 - **OpenProof pilot:** [qualify a case](https://openproof.net/qualify?intent=case). Describe the need; do not upload confidential evidence through a public channel.
 - **Transformation or interim executive assignment:** [connect on LinkedIn](https://www.linkedin.com/in/gryard/).
-- **Research or integration:** [explore TruthX](https://truthx.co/).
+- **Research or integration:** [explore the technology](https://openproof.net/technology).
 
 Paris / France is the immediate commercial focus, with a longer-term interest in Australia and the Asia-Pacific region.
