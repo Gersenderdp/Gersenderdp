@@ -13,6 +13,8 @@ Transformation COO · Interim Executive
 </tr>
 </table>
 
+**Research collaboration since 2024–2025:** Gersende works with **Professor [Gaël Dias](https://dias.users.greyc.fr/)** at **GREYC, Caen**, on the research behind TruthX / OpenProof.
+
 **When a decision is challenged, can you reconstruct what supports it?**
 
 I am building OpenProof to help people examine complex documentary cases. My contribution connects product design, source traceability and human responsibility with operational implementation.
@@ -48,7 +50,7 @@ This profile distinguishes the public material you can inspect from capabilities
 
 ## Help shape OpenProof
 
-**I am responsible for OpenProof's direction, priorities and coordination.** Contributors can take a bounded research, development or practitioner task, with clear acceptance criteria and credit for their work. [Meet the challenge and choose your role](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/COMMUNITY.md). The invitation is live; participation and institutional commitments are not presumed. The private engine's open-source release and licensing remain to be finalised.
+**I am responsible for OpenProof's direction, priorities and coordination.** Contributors can take a bounded research, development or practitioner task, with clear acceptance criteria and credit for their work. [Meet the challenge and choose your role](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/COMMUNITY.md). The invitation to the new public circle is live; individual task commitments remain to be agreed. The private engine's open-source release and licensing remain to be finalised.
 
 > Do not stop trusting. Stop trusting what cannot be reconstructed.
 
