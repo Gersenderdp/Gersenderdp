@@ -1,12 +1,25 @@
 # Gersende Ryard de Parcey
 
-**Founder of TruthX / OpenProof · Transformation COO / Interim Executive**
+<table>
+<tr>
+<td width="150" valign="top"><a href="https://github.com/Gersenderdp"><img src="https://raw.githubusercontent.com/openproof-net/rpo-spec-v0.1/4917df0671dbf53c59ad20cf5276309e090704b8/docs/images/gersende-de-parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof"></a></td>
+<td valign="middle">
+<strong>TRANSFORMATION · CRISIS · GOVERNANCE</strong><br>
+Founder of TruthX / OpenProof<br>
+Transformation COO · Interim Executive
+<p>I turn complex situations into clear responsibilities, reviewable decisions and practical operating workflows.</p>
+<a href="https://github.com/openproof-net/rpo-spec-v0.1">OpenProof repository</a> · <a href="https://www.linkedin.com/in/gryard/">Professional background</a>
+</td>
+</tr>
+</table>
 
-**When a decision is challenged, can you find the source behind each claim and explain what remains uncertain?**
+**When a decision is challenged, can you reconstruct what supports it?**
 
-I work on situations where documents, decisions and responsibilities have become difficult to reconcile. I bring experience in executive operations, organisational transformation and crisis work to clarifying what happened, what the sources support and what a person still needs to decide.
+I am building OpenProof to help people examine complex documentary cases. My contribution connects product design, source traceability and human responsibility with operational implementation.
 
-**[Explore my work through a five-minute OpenProof exercise](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/START_HERE.md).** Inspect a fictional record, observe a change and tell us what would make it useful in your work.
+### [See my work: try OpenProof in five minutes →](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/START_HERE.md)
+
+A fictional case. A reproducible change check. One useful observation to contribute.
 
 ## What I am building
 
