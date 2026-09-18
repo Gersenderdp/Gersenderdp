@@ -5,6 +5,9 @@
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
 
+**[OpenProof company page →](https://github.com/openproof-net)** · [Website](https://openproof.net/)  
+Public organization, RPO specification and contribution paths.
+
 I am building OpenProof to help people examine complex documentary cases: recover the context, trace claims to sources and keep conflicting evidence visible.
 
 My work connects experience in transformation and crisis management with product design: who could decide, what was known, what changed and what still needs human review.
