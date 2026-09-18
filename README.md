@@ -1,6 +1,6 @@
 # Gersende Ryard de Parcey
 
-<img align="right" src="https://raw.githubusercontent.com/openproof-net/rpo-spec-v0.1/4917df0671dbf53c59ad20cf5276309e090704b8/docs/images/gersende-de-parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof">
+<img align="right" src="https://raw.githubusercontent.com/openproof-net/openproof-rpo/4917df0671dbf53c59ad20cf5276309e090704b8/docs/images/gersende-de-parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof">
 
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
@@ -12,7 +12,7 @@ I am building OpenProof to help people examine complex documentary cases: recove
 
 My work connects experience in transformation and crisis management with product design: who could decide, what was known, what changed and what still needs human review.
 
-**[Start with one claim — a 15-minute review](https://github.com/openproof-net/rpo-spec-v0.1/issues/44)**  
+**[Start with one claim — a 15-minute review](https://github.com/openproof-net/openproof-rpo/issues/44)**  
 No coding required. French and English are welcome. The time is a suggested scope, not a measured completion time.
 
 ## A case you can examine
@@ -27,15 +27,15 @@ Follow this profile for small documentary review challenges, source-based correc
 
 ## Contribute one useful step
 
-- [Review one claim](https://github.com/openproof-net/rpo-spec-v0.1/issues/44): cite a passage, challenge an inference or identify missing evidence.
-- [Improve readability](https://github.com/openproof-net/rpo-spec-v0.1/issues/45): help a reader find the source and the remaining question.
-- [Specify citation checks](https://github.com/openproof-net/rpo-spec-v0.1/issues/46): describe a valid reference and what should happen when it is invalid.
+- [Review one claim](https://github.com/openproof-net/openproof-rpo/issues/44): cite a passage, challenge an inference or identify missing evidence.
+- [Improve readability](https://github.com/openproof-net/openproof-rpo/issues/45): help a reader find the source and the remaining question.
+- [Specify citation checks](https://github.com/openproof-net/openproof-rpo/issues/46): describe a valid reference and what should happen when it is invalid.
 
-[Contribution scope and rights](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/CONTRIBUTING.md). Accepted work is credited to the contributor's chosen public name or handle.
+[Contribution scope and rights](https://github.com/openproof-net/openproof-rpo/blob/main/CONTRIBUTING.md). Accepted work is credited to the contributor's chosen public name or handle.
 
 ## What is available today?
 
-The [public repository](https://github.com/openproof-net/rpo-spec-v0.1) contains a draft RPO format, fictional examples and a local integrity checker. [Try the existing integrity exercise](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/START_HERE.md).
+The [public repository](https://github.com/openproof-net/openproof-rpo) contains a draft RPO format, fictional examples and a local integrity checker. [Try the existing integrity exercise](https://github.com/openproof-net/openproof-rpo/blob/main/START_HERE.md).
 
 The full application and TruthX Engine remain private. A matching fingerprint does not prove source authenticity, factual truth or legal validity. The public exercises do not demonstrate automatic document analysis.
 
@@ -43,7 +43,7 @@ The full application and TruthX Engine remain private. A matching fingerprint do
 
 I conceived the initial thirteen-module architecture and lead product direction. Under Professor Gaël Dias's academic supervision at GREYC / Université de Caen Normandie, Lucy Martin and Clément Correia-Peltier developed a research prototype and delivered code, a report and a presentation in May 2026.
 
-Integration of this prototype into the current engine remains to be implemented and evaluated. [Research contributions and credits](https://github.com/openproof-net/rpo-spec-v0.1/blob/main/RESEARCH_COLLABORATION.md).
+Integration of this prototype into the current engine remains to be implemented and evaluated. [Research contributions and credits](https://github.com/openproof-net/openproof-rpo/blob/main/RESEARCH_COLLABORATION.md).
 
 ## Work with me
 
