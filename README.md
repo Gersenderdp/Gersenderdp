@@ -5,9 +5,14 @@
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
 
-**[Request an OpenProof Legal pilot →](https://openproof.net/qualify?intent=case)**  
-[OpenProof application](https://app.openproof.net/) · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)  
-Pilot access, application workspace, public repositories and contribution paths.
+**Can a shared decision explain every loss? Help examine one claim.**
+
+[Start with one source-based observation →](https://github.com/openproof-net/openproof-rpo/issues/44)  
+No coding or OpenProof account required for the written exercise. Use your GitHub account to comment. Start small, or try the fuller 15-minute review.
+
+**Follow this profile** for documentary review challenges and the changes made from contributors' feedback.
+
+[Request an OpenProof Legal pilot](https://openproof.net/qualify?intent=case) · [Application](https://app.openproof.net/) · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)
 
 I am building OpenProof to help people examine complex documentary cases: recover the context, trace claims to sources and keep conflicting evidence visible.
 
