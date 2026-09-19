@@ -5,8 +5,9 @@
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
 
-**[OpenProof application →](https://app.openproof.net/)** · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)  
-Application workspace, public repositories and contribution paths.
+**[Request an OpenProof Legal pilot →](https://openproof.net/qualify?intent=case)**  
+[OpenProof application](https://app.openproof.net/) · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)  
+Pilot access, application workspace, public repositories and contribution paths.
 
 I am building OpenProof to help people examine complex documentary cases: recover the context, trace claims to sources and keep conflicting evidence visible.
 
