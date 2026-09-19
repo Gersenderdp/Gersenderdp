@@ -5,6 +5,9 @@
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
 
+**[♥ Sponsor OpenProof’s public work](https://github.com/sponsors/openproof-net)**  
+Support the public integrity checker, reproducible tests and fictional examples with a one-time or monthly contribution.
+
 **Can a shared decision explain every loss? Help examine one claim.**
 
 [Start with one source-based observation →](https://github.com/openproof-net/openproof-rpo/issues/44)  
