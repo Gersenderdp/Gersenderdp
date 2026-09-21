@@ -5,15 +5,17 @@
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
 
-**[♥ Sponsor OpenProof’s public work](https://github.com/sponsors/openproof-net)**  
-Support the public integrity checker, reproducible tests and fictional examples with a one-time or monthly contribution.
+**From a document to a claim someone else can check.**
 
-**Can a shared decision explain every loss? Help examine one claim.**
+I’m building OpenProof in public: small source-based investigations, objections from contributors, and a visible record of what changes.
 
-[Start with one source-based observation →](https://github.com/openproof-net/openproof-rpo/issues/44)  
-No coding or OpenProof account required for the written exercise. Use your GitHub account to comment. Start small, or try the fuller 15-minute review.
+**A first lesson from an external review:** spending above budget is not automatically an economic loss. In the fictional cofounder case, S06 changes who could approve new expenses. The [first public review](https://github.com/openproof-net/openproof-rpo/issues/44#issuecomment-5751630383) prompted an update to the [written reading guide](https://github.com/openproof-net/openproof-rpo/issues/44): check the dates, approvals and documented consequences before concluding. The matching map update is being prepared for release.
 
-**Follow this profile** for documentary review challenges and the changes made from contributors' feedback.
+**[Follow Gersende](https://github.com/Gersenderdp)** to follow these investigations and see how objections improve the method. You can also [try the 15-minute fictional exercise](https://app.openproof.net/contribute?lang=en) or [contribute one written observation on GitHub](https://github.com/openproof-net/openproof-rpo/issues/44).
+
+**En français :** je construis OpenProof à partir de questions concrètes, de sources et de revues contradictoires. Une première contribution a amélioré le guide : distinguer dépassement de budget et perte, en gardant S06 dans la lecture. [Suivre mon parcours](https://github.com/Gersenderdp) · [Essayer le cas fictif en 15 minutes](https://app.openproof.net/contribute?lang=fr).
+
+Following is optional. The map uses an OpenProof account; the written exercise can be read without one, and posting a comment requires GitHub. Fifteen minutes is a suggested scope, not a measured completion time.
 
 [Request an OpenProof Legal pilot](https://openproof.net/qualify?intent=case) · [Application](https://app.openproof.net/) · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)
 
@@ -59,3 +61,7 @@ Integration of this prototype into the current engine remains to be implemented 
 [Discuss an OpenProof pilot](https://openproof.net/qualify?intent=case) · [Transformation and interim executive work](https://www.linkedin.com/in/gryard/) · [Method and technology](https://openproof.net/technology)
 
 For an initial enquiry, describe the need without sending confidential case files.
+
+## Support the public work · Soutenir le travail public
+
+[♥ Sponsor OpenProof’s public work](https://github.com/sponsors/openproof-net): support the public integrity checker, reproducible tests and fictional examples with a one-time or monthly contribution. Sponsorship is optional and is not required to follow, try the exercise or contribute.
