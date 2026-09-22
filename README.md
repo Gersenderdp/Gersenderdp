@@ -41,7 +41,7 @@ This example incorporates the rejection threshold made precise in [AlekseiUL’s
 - **[Map readability / Lisibilité de la carte — #45](https://github.com/openproof-net/openproof-rpo/issues/45):** show whether a reader can find S02, S03, S04 and the remaining question.
 - **[Technical citation check / Vérification technique — #46](https://github.com/openproof-net/openproof-rpo/issues/46):** separate “the reference resolves” from “the reference supports the conclusion”.
 
-Following is optional. The map uses an OpenProof account; the written exercise can be read without one, and posting a comment requires GitHub. Fifteen minutes is a suggested scope, not a measured completion time.
+Following is optional. The public fictional map can be explored without an OpenProof account; posting a comment requires GitHub, and private dossiers require a separate invited access. Fifteen minutes is a suggested scope, not a measured completion time.
 
 [Request an OpenProof Legal pilot](https://openproof.net/qualify?intent=case) · [Application](https://app.openproof.net/) · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)
 
