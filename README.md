@@ -15,6 +15,32 @@ I’m building OpenProof in public: small source-based investigations, objection
 
 **En français :** je construis OpenProof à partir de questions concrètes, de sources et de revues contradictoires. Une première contribution a amélioré le guide : distinguer dépassement de budget et perte, en gardant S06 dans la lecture. [Suivre mon parcours](https://github.com/Gersenderdp) · [Essayer le cas fictif en 15 minutes](https://app.openproof.net/contribute?lang=fr).
 
+## Review note 01 — What a source does not prove / Ce qu’une source ne prouve pas
+
+*Published 22 September 2026 · public fictional case · no real dossier material.*
+
+### Reusable four-field review / Modèle de revue en quatre champs
+
+1. **Claim examined / Affirmation examinée** — write the conclusion being tested.
+2. **Sources and exact passages / Sources et passages exacts** — identify what each source actually records.
+3. **Supported, unsupported or contrary / Soutenu, non soutenu ou contraire** — locate the precise inferential step that fails; do not settle for “more information is needed”.
+4. **Human decision and next evidence / Décision humaine et prochaine preuve** — accept, rewrite or reject the conclusion, then name the evidence needed to continue.
+
+### Fictional example / Exemple fictif
+
+- **Claim:** “The reported €60,000 budget overrun proves that the third founder caused a €60,000 economic loss.”
+- **Sources:** [S02](https://openproof.net/docs/case-brief.html#source-S02) records a €120,000 jointly approved cap; [S03](https://openproof.net/docs/case-brief.html#source-S03) reports €180,000 in spending but says the supporting records still need reconciliation; [S04](https://openproof.net/docs/case-brief.html#source-S04) preserves a late-warning acknowledgement; [S06](https://openproof.net/docs/case-brief.html#source-S06) changes approval rules from 5 May while retaining operational coordination.
+- **Review:** the approved cap and reported spending are supported. Payment, actual economic loss and causal attribution are not established. Approval authority and operational coordination must both remain visible, but neither proves causation.
+- **Human decision:** reject the overstatement. Keep S06 beside the conclusion and ask which transactions were committed or paid, when, under which approval rule, and with what documented consequence.
+
+This example incorporates the rejection threshold made precise in [AlekseiUL’s public review](https://github.com/openproof-net/openproof-rpo/issues/44#issuecomment-5751630383). It is a review specification, not a test result for an automated model.
+
+### Choose one contribution gate / Choisir une porte
+
+- **[Source-based review / Revue sourcée — #44](https://github.com/openproof-net/openproof-rpo/issues/44):** challenge one formulation and cite the passage that supports or limits it.
+- **[Map readability / Lisibilité de la carte — #45](https://github.com/openproof-net/openproof-rpo/issues/45):** show whether a reader can find S02, S03, S04 and the remaining question.
+- **[Technical citation check / Vérification technique — #46](https://github.com/openproof-net/openproof-rpo/issues/46):** separate “the reference resolves” from “the reference supports the conclusion”.
+
 Following is optional. The map uses an OpenProof account; the written exercise can be read without one, and posting a comment requires GitHub. Fifteen minutes is a suggested scope, not a measured completion time.
 
 [Request an OpenProof Legal pilot](https://openproof.net/qualify?intent=case) · [Application](https://app.openproof.net/) · [GitHub organization](https://github.com/openproof-net) · [Website](https://openproof.net/)
