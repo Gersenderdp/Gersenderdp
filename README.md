@@ -9,11 +9,19 @@ Transformation COO · Interim Executive
 
 I’m building OpenProof in public: small source-based investigations, objections from contributors, and a visible record of what changes.
 
+
+## Explorer OpenProof et contribuer · Explore OpenProof and contribute
+
+**1. Explorer la carte fictive, sans inscription · Explore the fictional map, no sign-in**  
+[🇫🇷 Français](https://app.openproof.net/contribute?lang=fr) · [🇬🇧 English](https://app.openproof.net/contribute?lang=en)
+
+**2. Lire les contributions et publier une observation · Read contributions and publish an observation**  
+[Ouvrir la discussion publique / Open the public discussion](https://github.com/openproof-net/openproof-rpo/issues/44)
+
+La carte et les échanges sont publics. Aucun compte OpenProof n’est nécessaire pour explorer ; un compte GitHub est nécessaire uniquement pour publier un commentaire. Cet exercice ne donne aucun accès aux dossiers privés.  
+The map and discussion are public. No OpenProof account is required to explore; a GitHub account is needed only to post a comment. This exercise gives no access to private cases.
+
 **A first lesson from an external review:** spending above budget is not automatically an economic loss. In the fictional cofounder case, S06 changes who could approve new expenses. The [first public review](https://github.com/openproof-net/openproof-rpo/issues/44#issuecomment-5751630383) prompted an update to the [written reading guide](https://github.com/openproof-net/openproof-rpo/issues/44): check the dates, approvals and documented consequences before concluding. The matching guidance is now visible in the [public fictional map](https://app.openproof.net/contribute?lang=en). A [one-page provenance crosswalk v0.1](https://github.com/openproof-net/openproof-rpo/blob/321878cc35ce71d530e54d144bdf652fd1e66ee2/examples/cofounders-review/PROVENANCE_ONE_PAGER_V0.1.md) is public and submitted for review; no scientific validation is claimed.
-
-**[Follow Gersende](https://github.com/Gersenderdp)** to follow these investigations and see how objections improve the method. You can also [try the 15-minute fictional exercise](https://app.openproof.net/contribute?lang=en) or [contribute one written observation on GitHub](https://github.com/openproof-net/openproof-rpo/issues/44).
-
-**En français :** je construis OpenProof à partir de questions concrètes, de sources et de revues contradictoires. Une première contribution a amélioré le guide : distinguer dépassement de budget et perte, en gardant S06 dans la lecture. [Suivre mon parcours](https://github.com/Gersenderdp) · [Essayer le cas fictif en 15 minutes](https://app.openproof.net/contribute?lang=fr).
 
 ## Review note 01 — What a source does not prove / Ce qu’une source ne prouve pas
 
@@ -35,7 +43,7 @@ I’m building OpenProof in public: small source-based investigations, objection
 
 This example incorporates the rejection threshold made precise in [AlekseiUL’s public review](https://github.com/openproof-net/openproof-rpo/issues/44#issuecomment-5751630383). It is a review specification, not a test result for an automated model.
 
-### Choose one contribution gate / Choisir une porte
+### Other contribution paths / Autres contributions
 
 - **[Source-based review / Revue sourcée — #44](https://github.com/openproof-net/openproof-rpo/issues/44):** challenge one formulation and cite the passage that supports or limits it.
 - **[Map readability / Lisibilité de la carte — #45](https://github.com/openproof-net/openproof-rpo/issues/45):** show whether a reader can find S02, S03, S04 and the remaining question.
@@ -48,9 +56,6 @@ Following is optional. The public fictional map can be explored without an OpenP
 I am building OpenProof to help people examine complex documentary cases: recover the context, trace claims to sources and keep conflicting evidence visible.
 
 My work connects experience in transformation and crisis management with product design: who could decide, what was known, what changed and what still needs human review.
-
-**[Start with one claim — a 15-minute review](https://github.com/openproof-net/openproof-rpo/issues/44)**  
-No coding required. French and English are welcome. The time is a suggested scope, not a measured completion time.
 
 ## A case you can examine
 
