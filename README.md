@@ -1,6 +1,6 @@
 # Gersende Ryard de Parcey
 
-<img align="right" src="https://raw.githubusercontent.com/openproof-net/openproof-rpo/4917df0671dbf53c59ad20cf5276309e090704b8/docs/images/gersende-de-parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof">
+<img align="right" src="https://raw.githubusercontent.com/Gersenderdp/Gersenderdp/main/images/Gersende_de_parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof">
 
 **Founder & product lead — TruthX / OpenProof**  
 Transformation COO · Interim Executive
