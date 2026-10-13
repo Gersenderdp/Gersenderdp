@@ -1,14 +1,32 @@
 # Gersende Ryard de Parcey
 
-<img align="right" src="https://raw.githubusercontent.com/Gersenderdp/Gersenderdp/main/images/Gersende_de_parcey.png" width="140" alt="Portrait of Gersende Ryard de Parcey, founder of TruthX and OpenProof">
+<img align="right" src="https://raw.githubusercontent.com/Gersenderdp/Gersenderdp/main/images/Gersende_de_parcey.png" width="140" alt="Gersende Ryard de Parcey, founder and product lead of TruthX / OpenProof">
 
-**Founder & product lead — TruthX / OpenProof**  
-Transformation COO · Interim Executive
+**Product leadership & AI transformation**  
+Founder — TruthX / OpenProof · Paris / Île-de-France
 
-**From a document to a claim someone else can check.**
+I turn complex business problems into product priorities, usable workflows and delivery that can be checked. My work connects executive experience, product design and delivery with AI coding agents.
 
-I’m building OpenProof in public: small source-based investigations, objections from contributors, and a visible record of what changes.
+## Work with me · Mes services aux entreprises
 
+I offer product leadership and AI transformation services: frame a business use case, define the product and user journey, prioritise delivery, coordinate implementation and organise quality checks and adoption.
+
+J’interviens en direction produit et transformation par l’IA : cadrage du besoin métier, vision produit, parcours utilisateur, priorisation, pilotage de réalisation et accompagnement de l’adoption.
+
+**Paris / Île-de-France · Services delivered through TruthX.**  
+[Discuss a business need / Échanger sur votre besoin](mailto:gersende.ryard.de.parcey@truthx.co) · [LinkedIn](https://www.linkedin.com/in/gryard/)
+
+## A concrete product · Une réalisation concrète
+
+**OpenProof, conceived and led since 2025.** I define the user journeys, priorities and source-traceability rules, and lead delivery with Codex / Astra through GitHub changes, reviews, automated tests and continuous integration.
+
+The public demonstration is available. The private workflow remains under qualification. The current structuring kernel is deterministic; integration and evaluation of the delivered multi-agent research prototype remain to be completed.
+
+[Explore the public demonstration / Voir la démonstration](https://app.openproof.net/contribute?lang=en) · [Français](https://app.openproof.net/contribute?lang=fr) · [Product](https://openproof.net/) · [Research roles and credits](https://github.com/openproof-net/openproof-rpo/blob/main/RESEARCH_COLLABORATION.md)
+
+**Capabilities:** product vision · business requirements · prioritisation · user journeys · delivery with AI agents · traceability · human review · change management.
+
+**Product environment I coordinate:** Python · FastAPI · SQL / PostgreSQL · GitHub · GitHub Actions · pytest. This describes the delivery environment, not a claim of independent engineering mastery.
 
 ## Explorer OpenProof et contribuer · Explore OpenProof and contribute
 
@@ -22,6 +40,9 @@ La carte et les échanges sont publics. Aucun compte OpenProof n’est nécessai
 The map and discussion are public. No OpenProof account is required to explore; a GitHub account is needed only to post a comment. This exercise gives no access to private cases.
 
 **A first lesson from an external review:** spending above budget is not automatically an economic loss. In the fictional cofounder case, S06 changes who could approve new expenses. The [first public review](https://github.com/openproof-net/openproof-rpo/issues/44#issuecomment-5751630383) prompted an update to the [written reading guide](https://github.com/openproof-net/openproof-rpo/issues/44): check the dates, approvals and documented consequences before concluding. The matching guidance is now visible in the [public fictional map](https://app.openproof.net/contribute?lang=en). The [submitted provenance crosswalk v0.1](https://github.com/openproof-net/openproof-rpo/blob/321878cc35ce71d530e54d144bdf652fd1e66ee2/examples/cofounders-review/PROVENANCE_ONE_PAGER_V0.1.md) is preserved. A [v0.2 revised draft](https://github.com/openproof-net/openproof-rpo/blob/main/examples/cofounders-review/PROVENANCE_ONE_PAGER_V0.2.md) now corrects the PROV relation directions, adds explicit derivation, and separates operational, review and reconstruction levels. It is **not scientific validation**.
+
+<details>
+<summary>Review note 01 — What a source does not prove / Ce qu’une source ne prouve pas</summary>
 
 ## Review note 01 — What a source does not prove / Ce qu’une source ne prouve pas
 
@@ -48,6 +69,8 @@ This example incorporates the rejection threshold made precise in [AlekseiUL’s
 - **[Source-based review / Revue sourcée — #44](https://github.com/openproof-net/openproof-rpo/issues/44):** challenge one formulation and cite the passage that supports or limits it.
 - **[Map readability / Lisibilité de la carte — #45](https://github.com/openproof-net/openproof-rpo/issues/45):** show whether a reader can find S02, S03, S04 and the remaining question.
 - **[Technical citation check / Vérification technique — #46](https://github.com/openproof-net/openproof-rpo/issues/46):** separate “the reference resolves” from “the reference supports the conclusion”.
+
+</details>
 
 Following is optional. The public fictional map can be explored without an OpenProof account; posting a comment requires GitHub, and private dossiers require a separate invited access. Fifteen minutes is a suggested scope, not a measured completion time.
 
@@ -87,9 +110,9 @@ I conceived the initial thirteen-module architecture and lead product direction.
 
 Integration of this prototype into the current engine remains to be implemented and evaluated. [Research contributions and credits](https://github.com/openproof-net/openproof-rpo/blob/main/RESEARCH_COLLABORATION.md).
 
-## Work with me
+## Discuss the product or method
 
-[Discuss an OpenProof pilot](https://openproof.net/qualify?intent=case) · [Transformation and interim executive work](https://www.linkedin.com/in/gryard/) · [Method and technology](https://openproof.net/technology)
+[Discuss an OpenProof pilot](https://openproof.net/qualify?intent=case) · [Product leadership & AI transformation](https://www.linkedin.com/in/gryard/) · [Method and technology](https://openproof.net/technology)
 
 For an initial enquiry, describe the need without sending confidential case files.
 
