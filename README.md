@@ -21,7 +21,7 @@ Through TruthX, I support leaders and teams from business framing to a testable 
 
 ## OpenProof — the product I lead
 
-**Research collaboration with Université de Caen Normandie and [GREYC (CNRS UMR 6072)](https://www.greyc.fr/laboratoire/), with academic supervision from Professor Gaël Dias.**
+**Research collaboration through 2027 with Université de Caen Normandie and [GREYC (CNRS UMR 6072)](https://www.greyc.fr/laboratoire/), with academic supervision from Professor Gaël Dias.**
 
 **I conceived OpenProof and have led its development since 2025.** I am building it to help people make sense of complex documentary cases: reconstruct events, trace claims to sources, examine conflicting evidence and prepare a clearer discussion with their adviser.
 
