@@ -21,6 +21,8 @@ Through TruthX, I support leaders and teams from business framing to a testable 
 
 ## OpenProof — the product I lead
 
+**Research collaboration with Université de Caen Normandie and [GREYC (CNRS UMR 6072)](https://www.greyc.fr/laboratoire/), with academic supervision from Professor Gaël Dias.**
+
 **I conceived OpenProof and have led its development since 2025.** I am building it to help people make sense of complex documentary cases: reconstruct events, trace claims to sources, examine conflicting evidence and prepare a clearer discussion with their adviser.
 
 I define the product vision, user journeys and source-traceability rules, and coordinate delivery with Codex / Astra through GitHub changes, reviews and automated checks.
@@ -29,7 +31,7 @@ I define the product vision, user journeys and source-traceability rules, and co
 
 [Explore the demonstration](https://app.openproof.net/contribute?lang=en) · [Demonstration in French](https://app.openproof.net/contribute?lang=fr) · [Discuss an OpenProof Legal pilot](https://openproof.net/qualify?intent=case)
 
-Research work with GREYC / Université de Caen Normandie, supervised by Professor Gaël Dias, includes a prototype delivered by Lucy Martin and Clément Correia-Peltier in May 2026. [Contributions and current integration status](https://github.com/openproof-net/openproof-rpo/blob/main/RESEARCH_COLLABORATION.md).
+Within this collaboration, Lucy Martin and Clément Correia-Peltier delivered a research prototype in May 2026. [Contributions and current integration status](https://github.com/openproof-net/openproof-rpo/blob/main/RESEARCH_COLLABORATION.md).
 
 ## Explore OpenProof and contribute
 
